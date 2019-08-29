@@ -1,3 +1,0 @@
-firstbranch first file.modified in firstbranch
-
-The changes made in firstbranch
